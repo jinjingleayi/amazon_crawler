@@ -1,0 +1,5 @@
+playwright==1.48.0
+beautifulsoup4==4.12.3
+pandas==2.2.2
+python-dateutil==2.9.0.post0
+tenacity==9.0.0
